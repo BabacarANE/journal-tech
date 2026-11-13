@@ -1,10 +1,50 @@
 [
-  { "slug": "frameworks", "label": "Frameworks", "weekday": 1, "color": "#0e7490", "desc": "Comment ils fonctionnent, comment les installer et les mettre en place : Spring Boot, Django, Node.js, Laravel, React, Vue.js." },
-  { "slug": "bonnes-pratiques", "label": "Bonnes pratiques", "weekday": 2, "color": "#4d7c0f", "desc": "Code propre, tests, conception d'API, architecture, revue de code, gestion de versions." },
-  { "slug": "devops", "label": "DevOps", "weekday": 3, "color": "#b45309", "desc": "Conteneurs, intégration et déploiement continus, infrastructure as code, observabilité." },
-  { "slug": "ia", "label": "IA & agents", "weekday": 4, "color": "#7c3aed", "desc": "Modèles, agents, outils pour développeurs, intégration de l'IA dans une application." },
-  { "slug": "cybersecurite", "label": "Cybersécurité", "weekday": 5, "color": "#be123c", "desc": "Sécurité applicative, OWASP, authentification, gestion des secrets, politique de sécurité." },
-  { "slug": "donnees-legislation", "label": "Données & législation", "weekday": 6, "color": "#1d4ed8", "desc": "RGPD, CNIL, AI Act, hébergement et souveraineté des données, droits des personnes." },
-  { "slug": "si-data", "label": "SI & data", "weekday": 0, "color": "#a21caf", "desc": "Système d'information, architecture, bases de données, BI, gouvernance et qualité des données." },
-  { "slug": "journal", "label": "Le journal", "weekday": null, "color": "#52525b", "desc": "Informations sur le journal lui-même." }
+  {
+    "slug": "frameworks",
+    "label": "Frameworks",
+    "weekday": 1,
+    "desc": "Comment ils fonctionnent, comment les installer et les mettre en place : Spring Boot, Django, Node.js, Laravel, React, Vue.js."
+  },
+  {
+    "slug": "bonnes-pratiques",
+    "label": "Bonnes pratiques",
+    "weekday": 2,
+    "desc": "Code propre, tests, conception d'API, architecture, revue de code, gestion de versions."
+  },
+  {
+    "slug": "devops",
+    "label": "DevOps",
+    "weekday": 3,
+    "desc": "Conteneurs, intégration et déploiement continus, infrastructure as code, observabilité."
+  },
+  {
+    "slug": "ia",
+    "label": "IA & agents",
+    "weekday": 4,
+    "desc": "Modèles, agents, outils pour développeurs, intégration de l'IA dans une application."
+  },
+  {
+    "slug": "cybersecurite",
+    "label": "Cybersécurité",
+    "weekday": 5,
+    "desc": "Sécurité applicative, OWASP, authentification, gestion des secrets, politique de sécurité."
+  },
+  {
+    "slug": "donnees-legislation",
+    "label": "Données & législation",
+    "weekday": 6,
+    "desc": "RGPD, CNIL, AI Act, hébergement et souveraineté des données, droits des personnes."
+  },
+  {
+    "slug": "si-data",
+    "label": "SI & data",
+    "weekday": 0,
+    "desc": "Système d'information, architecture, bases de données, BI, gouvernance et qualité des données."
+  },
+  {
+    "slug": "journal",
+    "label": "Le journal",
+    "weekday": null,
+    "desc": "Informations sur le journal lui-même."
+  }
 ]

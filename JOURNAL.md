@@ -54,4 +54,5 @@ summary: Une ou deux phrases qui donnent envie de lire et disent ce qu'on appren
 - Français clair, ton pédagogique, définir chaque terme technique à sa première apparition.
 - Cybersécurité : angle défensif uniquement (comprendre les attaques pour s'en protéger), aucun mode d'emploi d'exploitation.
 - Législation (RGPD, CNIL, AI Act, etc.) : s'appuyer sur les textes officiels (EUR-Lex, Légifrance, CNIL), indiquer que la leçon est informative et ne constitue pas un conseil juridique.
+- Typographie : pas de tiret cadratin ni demi-cadratin dans le texte (utiliser virgule, deux-points, point ou parenthèses) ; apostrophes et guillemets sont convertis automatiquement par le site.
 - Code : blocs avec la langue indiquée (` ```java `, ` ```python `, etc.).
