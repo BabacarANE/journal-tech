@@ -1,0 +1,19 @@
+{
+  "name": "journal-tech",
+  "version": "1.0.0",
+  "description": "Journal tech quotidien : une leçon par jour, archivée et publiée en site statique.",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "preview": "node build.mjs && npx --yes serve dist"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "highlight.js": "^11.12.0",
+    "marked": "^18.2.0",
+    "marked-highlight": "^2.2.4"
+  }
+}
